@@ -1,4 +1,3 @@
-
 package com.group6.trafficgraphoptimizer.graph;
 
 import org.junit.jupiter.api.Test;
